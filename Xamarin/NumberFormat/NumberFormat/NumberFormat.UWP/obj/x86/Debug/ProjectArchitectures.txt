@@ -1,0 +1,1 @@
+C:\Users\antonio\source\repos\NumberFormat\NumberFormat\NumberFormat.UWP\NumberFormat.UWP.csproj;x86

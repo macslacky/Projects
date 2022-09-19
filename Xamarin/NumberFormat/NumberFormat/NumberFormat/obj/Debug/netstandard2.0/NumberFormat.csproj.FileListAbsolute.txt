@@ -1,0 +1,15 @@
+C:\Users\antonio\source\repos\NumberFormat\NumberFormat\NumberFormat\bin\Debug\netstandard2.0\NumberFormat.deps.json
+C:\Users\antonio\source\repos\NumberFormat\NumberFormat\NumberFormat\bin\Debug\netstandard2.0\NumberFormat.dll
+C:\Users\antonio\source\repos\NumberFormat\NumberFormat\NumberFormat\bin\Debug\netstandard2.0\NumberFormat.pdb
+C:\Users\antonio\source\repos\NumberFormat\NumberFormat\NumberFormat\obj\Debug\netstandard2.0\NumberFormat.csproj.AssemblyReference.cache
+C:\Users\antonio\source\repos\NumberFormat\NumberFormat\NumberFormat\obj\Debug\netstandard2.0\NumberFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio\source\repos\NumberFormat\NumberFormat\NumberFormat\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\antonio\source\repos\NumberFormat\NumberFormat\NumberFormat\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\antonio\source\repos\NumberFormat\NumberFormat\NumberFormat\obj\Debug\netstandard2.0\NumberFormat.AssemblyInfoInputs.cache
+C:\Users\antonio\source\repos\NumberFormat\NumberFormat\NumberFormat\obj\Debug\netstandard2.0\NumberFormat.AssemblyInfo.cs
+C:\Users\antonio\source\repos\NumberFormat\NumberFormat\NumberFormat\obj\Debug\netstandard2.0\NumberFormat.csproj.CoreCompileInputs.cache
+C:\Users\antonio\source\repos\NumberFormat\NumberFormat\NumberFormat\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\antonio\source\repos\NumberFormat\NumberFormat\NumberFormat\obj\Debug\netstandard2.0\NumberFormat.dll
+C:\Users\antonio\source\repos\NumberFormat\NumberFormat\NumberFormat\obj\Debug\netstandard2.0\refint\NumberFormat.dll
+C:\Users\antonio\source\repos\NumberFormat\NumberFormat\NumberFormat\obj\Debug\netstandard2.0\NumberFormat.pdb
+C:\Users\antonio\source\repos\NumberFormat\NumberFormat\NumberFormat\obj\Debug\netstandard2.0\ref\NumberFormat.dll
